@@ -1,0 +1,19 @@
+.fa-trash{
+    cursor: pointer;
+}
+
+.fa-trash, .fa-edit {
+    cursor: pointer;
+    transition: 0.2s ease;
+}
+
+.fa-trash:hover, .fa-edit:hover {
+    opacity: 0.5;
+    transition: 0.4s ease;
+}
+
+.list_sidebar {
+    background-color: #edeef1;
+    border: 1px solid #dee2e6;
+}
+
